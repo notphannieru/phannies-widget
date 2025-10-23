@@ -3,7 +3,7 @@
     "loading_order": 101, 
     "requires": [],
     "optional": [],
-    "js": "index.js", // ¡Crucial! Debe ser index.js
+    "js": "index.js", 
     "css": "style.css", 
     "author": "Phannie",
     "version": "1.0.0",
